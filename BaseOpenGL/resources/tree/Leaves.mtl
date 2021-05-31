@@ -1,0 +1,26 @@
+newmtl AlanTreeSG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.10 0.10 0.10
+Ns 11.60
+newmtl AlanTreeSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BroadleafBark.tga
+Ni 1.00
+Ks 0.10 0.10 0.10
+Ns 11.60
+newmtl AlanTreeSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd SampleLeaves_2.tga
+Ni 1.00
+Ks 0.10 0.10 0.10
+Ns 11.60

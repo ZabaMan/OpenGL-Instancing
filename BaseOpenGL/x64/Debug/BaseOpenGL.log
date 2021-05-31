@@ -1,0 +1,41 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Mapfall.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  game.cpp
+C:\Users\Aaron\source\repos\Instancing\BaseOpenGL\mesh.h(84,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Aaron\source\repos\Instancing\BaseOpenGL\game.cpp(111,29): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Aaron\source\repos\Instancing\BaseOpenGL\game.cpp(114,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Aaron\source\repos\Instancing\BaseOpenGL\game.cpp(121,37): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\Aaron\source\repos\Instancing\BaseOpenGL\game.cpp(121,40): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\Aaron\source\repos\Instancing\BaseOpenGL\game.cpp(136,32): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aaron\source\repos\Instancing\BaseOpenGL\game.cpp(141,32): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aaron\source\repos\Instancing\BaseOpenGL\game.cpp(152,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Aaron\source\repos\Instancing\BaseOpenGL\game.cpp(155,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\source\repos\Instancing\BaseOpenGL\game.cpp(162,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Aaron\source\repos\Instancing\BaseOpenGL\game.cpp(168,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Aaron\source\repos\Instancing\BaseOpenGL\game.cpp(171,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\source\repos\Instancing\BaseOpenGL\game.cpp(178,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Aaron\source\repos\Instancing\BaseOpenGL\game.cpp(225,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Aaron\source\repos\Instancing\BaseOpenGL\game.cpp(259,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Aaron\source\repos\Instancing\BaseOpenGL\game.cpp(262,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\source\repos\Instancing\BaseOpenGL\game.cpp(271,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Aaron\source\repos\Instancing\BaseOpenGL\game.cpp(274,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\source\repos\Instancing\BaseOpenGL\game.cpp(282,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Aaron\source\repos\Instancing\BaseOpenGL\game.cpp(401,110): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Aaron\source\repos\Instancing\BaseOpenGL\game.cpp(418,114): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Aaron\source\repos\Instancing\BaseOpenGL\game.cpp(425,115): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Aaron\source\repos\Instancing\BaseOpenGL\game.cpp(442,108): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+glfw3.lib(context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(context.obj)' or at 'C:\Users\Aaron\source\repos\Instancing\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(init.obj)' or at 'C:\Users\Aaron\source\repos\Instancing\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(input.obj)' or at ''; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(monitor.obj)' or at 'C:\Users\Aaron\source\repos\Instancing\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(vulkan.obj)' or at 'C:\Users\Aaron\source\repos\Instancing\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_init.obj)' or at 'C:\Users\Aaron\source\repos\Instancing\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_joystick.obj)' or at 'C:\Users\Aaron\source\repos\Instancing\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_time.obj)' or at 'C:\Users\Aaron\source\repos\Instancing\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_thread.obj)' or at 'C:\Users\Aaron\source\repos\Instancing\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(wgl_context.obj)' or at 'C:\Users\Aaron\source\repos\Instancing\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(egl_context.obj)' or at 'C:\Users\Aaron\source\repos\Instancing\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(osmesa_context.obj)' or at ''; linking object as if no debug info
+  BaseOpenGL.vcxproj -> C:\Users\Aaron\source\repos\Instancing\x64\Debug\BaseOpenGL.exe
